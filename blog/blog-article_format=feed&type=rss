@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog &amp; Article</title>
+		<description><![CDATA[creative agencies, designers, digital agency, freelancers, developers, designer, web designer, developers, business, services, marketing, Construction]]></description>
+		<link>https://collax.codelayers.net/blog/blog-article</link>
+		<lastBuildDate>Wed, 15 Feb 2023 11:05:57 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://collax.codelayers.net/blog/blog-article?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>How to add a count up animation the webflow site.</title>
+			<link>https://collax.codelayers.net/blog/blog-article/how-to-add-a-count-up-animation-the-webflow-site</link>
+			<guid isPermaLink="true">https://collax.codelayers.net/blog/blog-article/how-to-add-a-count-up-animation-the-webflow-site</guid>
+			<description><![CDATA[<p><img src="https://collax.codelayers.net//images/blog-details/blog-big-1.jpg" alt="" width="843" height="402" loading="lazy"></p><p>At Collax we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast.</p>
+]]></description>
+			<category>Web Design</category>
+			<pubDate>Sat, 19 Nov 2022 21:20:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>How to grow your business with collax digital solution.</title>
+			<link>https://collax.codelayers.net/blog/blog-article/how-to-grow-your-business-with-collax-digital-solution</link>
+			<guid isPermaLink="true">https://collax.codelayers.net/blog/blog-article/how-to-grow-your-business-with-collax-digital-solution</guid>
+			<description><![CDATA[<p><img src="https://collax.codelayers.net//images/blog-details/blog-big-2.jpg" alt="" width="843" height="402" loading="lazy"></p><p>At Collax we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast.</p>
+]]></description>
+			<category>Web Design</category>
+			<pubDate>Sat, 19 Nov 2022 21:20:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>How To Apply UX Principles To Embedded Systems: Learnings From The Field</title>
+			<link>https://collax.codelayers.net/blog/blog-details</link>
+			<guid isPermaLink="true">https://collax.codelayers.net/blog/blog-details</guid>
+			<description><![CDATA[<p><img src="https://collax.codelayers.net//images/blog-details/blog-big-3.jpg" alt="" width="843" height="402" loading="lazy"></p><p>At Collax we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast.</p>
+]]></description>
+			<category>Web Design</category>
+			<pubDate>Sat, 19 Nov 2022 21:20:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>DevFest For Ukraine, A Charity Conference On The Future Of Tech </title>
+			<link>https://collax.codelayers.net/blog/blog-article/devfest-for-ukraine-a-charity-conference-on-the-future-of-tech</link>
+			<guid isPermaLink="true">https://collax.codelayers.net/blog/blog-article/devfest-for-ukraine-a-charity-conference-on-the-future-of-tech</guid>
+			<description><![CDATA[<p><img src="https://collax.codelayers.net//images/blog-details/blog-big-3.jpg" alt="" width="843" height="402" loading="lazy"></p><p>At Collax we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast.</p>
+]]></description>
+			<category>Web Design</category>
+			<pubDate>Sat, 19 Nov 2022 21:20:03 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
